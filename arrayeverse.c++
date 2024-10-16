@@ -11,11 +11,12 @@ int reverse(int array[],int n){
     {
         cout<<array[i]<<endl;
     }
-    
+
     return 0;
 }
 int main(){
     int n;
+    cout<<"testing for github";
     cout<<"Enter the size of the Array:";
     cin>>n;
     int array[n];
